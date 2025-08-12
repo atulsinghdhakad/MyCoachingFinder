@@ -1,0 +1,47 @@
+/* toastAnimations.css */
+@keyframes slideUp {
+    from {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .animate-slideUp {
+    animation: slideUp 0.5s ease-out forwards;
+  }
+  
+  @keyframes slideDown {
+    from {
+      transform: translateY(0);
+      opacity: 1;
+    }
+    to {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+  }
+  
+  .animate-slideDown {
+    animation: slideDown 0.5s ease-out forwards;
+  }
+
+  /* Toast animation for sliding up */
+@keyframes slideUp {
+    0% {
+      opacity: 0;
+      transform: translateY(10px); /* Start slightly below */
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0); /* End at the normal position */
+    }
+  }
+  
+  /* Apply the slide-up animation to toast */
+  .animate-toastSlideUp {
+    animation: slideUp 0.5s ease-out forwards; /* Smooth slide-up effect */
+  }

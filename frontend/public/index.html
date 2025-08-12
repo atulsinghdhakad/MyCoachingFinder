@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Coaching Finder - Find the best coaching institutes near you"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!-- Version: 2024-06-20-07:30 - Force Cache Refresh -->
+    <title>Coaching Finder</title>
+
+    <!-- Optional: Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+  </head>
+
+
+  <script src="https://www.google.com/recaptcha/api.js?render=6LdwPJcrAAAAAErqEEOBTne1r65z6u3NhrFastpl"></script>
+
+
+  <!-- inside <head> -->
+    <script>
+      window.fbAsyncInit = function () {
+        FB.init({
+          appId: '1537262513828865',
+          cookie: true,
+          xfbml: true,
+          version: 'v19.0'
+        });
+      };
+    
+      (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      })(document, 'script', 'facebook-jssdk');
+    </script>
+    
+
+
+
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div> <!-- React app mounts here -->
+    <div id="recaptcha-container"></div> <!-- 🟣 Move outside React root -->
+
+    <!-- ✅ Load Facebook SDK just before closing body -->
+    
+  
+  </body>
+</html>

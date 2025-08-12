@@ -1,0 +1,40 @@
+/* src/styles/register.css */
+
+.register-container {
+  background: linear-gradient(135deg, #6EE7B7 0%, #3B82F6 100%);
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 5px;
+}
+
+.register-form {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px;
+}
+
+.register-form h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+.register-input {
+  border: 1px solid #ccc;
+  padding: 0.75rem;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.register-btn {
+  background-color: #3B82F6;
+  color: white;
+  padding: 0.75rem;
+  border-radius: 8px;
+  width: 100%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.register-btn:hover {
+  background-color: #2563EB;
+}

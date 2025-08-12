@@ -1,0 +1,26 @@
+# Coaching Finder: Backend RBAC & Test Summary
+
+## RBAC Implementation
+- Role-based access control (RBAC) with strict role hierarchy: superadmin > admin > moderator > user.
+- Role assignment and changes are enforced only via backend API using Firebase Admin SDK custom claims.
+- Only superadmins can assign or change roles using POST /admin/set-roles.
+- Backend route middleware uses RBAC helpers to enforce role restrictions.
+- MongoDB/Mongoose models store user roles and audit logs.
+
+## Audit Logging
+- All critical admin actions (role assignment, revocation, logins) are logged.
+- Audit logs include actor, target, action, timestamp, IP, user agent, and fingerprint.
+- Audit logs are immutable for security and traceability.
+
+## Backend Testing
+- Jest tests for role assignment, revocation, and RBAC enforcement.
+- Mocks for Firebase Admin SDK (`setCustomUserClaims`) and MongoDB models.
+- All backend tests pass after fixing Jest mock scope issues with global variables.
+
+## Security
+- No frontend can assign roles; all RBAC is backend-enforced.
+- Fallback admin check by email is deprecated but still available for transition.
+
+---
+
+**Status:** All backend RBAC and admin controller tests pass. Role assignment is secure and auditable.

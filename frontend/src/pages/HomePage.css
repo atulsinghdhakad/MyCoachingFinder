@@ -1,0 +1,22 @@
+/* HomePage Dark Mode */
+body.dark .home-page {
+  background-color: #1a202c; /* Dark mode background */
+  color: #e2e8f0; /* Dark mode text color */
+}
+
+body.dark .home-page .search-bar input,
+body.dark .home-page .filters select {
+  background-color: #4a5568; /* Dark mode input/select background */
+  color: #e2e8f0; /* Dark mode text color */
+  border: 1px solid #718096; /* Dark mode border color */
+}
+
+body.dark .home-page button {
+  background-color: #4a5568; /* Dark mode button background */
+  color: #e2e8f0; /* Dark mode button text color */
+}
+
+body.dark .home-page button:hover {
+  background-color: #2d3748; /* Dark mode button hover background */
+  color: #63b3ed; /* Dark mode button hover text color */
+}

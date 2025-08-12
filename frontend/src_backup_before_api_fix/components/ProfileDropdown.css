@@ -1,0 +1,727 @@
+/* 🚀 FUTURISTIC PROFILE DROPDOWN - CRAZY & UNIQUE DESIGN 🚀 */
+
+/* Import Google Fonts for futuristic look */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+/* CSS Variables for easy customization */
+:root {
+  --neon-blue: #00d4ff;
+  --neon-purple: #bc13fe;
+  --neon-pink: #ff0080;
+  --neon-green: #00ff88;
+  --neon-orange: #ff6b35;
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.2);
+  --dark-bg: rgba(0, 0, 0, 0.8);
+  --holographic-gradient: linear-gradient(45deg, #00d4ff, #bc13fe, #ff0080, #00ff88);
+}
+
+/* Base Profile Dropdown */
+.profile-dropdown {
+  position: relative;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+/* 🎯 Futuristic Profile Button */
+.futuristic-profile-btn {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(0, 255, 255, 0.3);
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  overflow: hidden;
+  min-width: auto;
+}
+
+.futuristic-profile-btn:hover {
+  background: rgba(0, 0, 0, 0.5);
+  border-color: rgba(0, 255, 255, 0.6);
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+  transform: translateY(-1px);
+}
+
+/* 🌀 Holographic Avatar */
+.holographic-avatar {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  z-index: 2;
+  position: relative;
+}
+
+.avatar-placeholder {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  z-index: 2;
+  position: relative;
+}
+
+.holographic-ring {
+  position: absolute;
+  border: 1px solid rgba(0, 255, 255, 0.6);
+  border-radius: 50%;
+  animation: rotate 3s linear infinite;
+}
+
+.holographic-ring.ring-2 {
+  width: 110%;
+  height: 110%;
+  border-color: rgba(255, 0, 255, 0.4);
+  animation-duration: 4s;
+  animation-direction: reverse;
+}
+
+.holographic-ring.ring-3 {
+  width: 120%;
+  height: 120%;
+  border-color: rgba(0, 255, 0, 0.3);
+  animation-duration: 5s;
+}
+
+/* 📊 User Info */
+.user-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.user-name {
+  font-size: 12px;
+  font-weight: 600;
+  color: #fff;
+  margin: 0;
+  line-height: 1;
+}
+
+.user-email {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0;
+  line-height: 1;
+}
+
+/* ➡️ Animated Arrow */
+.arrow-container {
+  display: flex;
+  align-items: center;
+  transition: transform 0.3s ease;
+}
+
+.arrow-container.open {
+  transform: rotate(180deg);
+}
+
+.arrow {
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 4px solid rgba(0, 255, 255, 0.8);
+  transition: all 0.3s ease;
+}
+
+/* 🚀 Futuristic Dropdown */
+.futuristic-dropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  width: 280px;
+  background: rgba(0, 0, 0, 0.95);
+  border: 1px solid rgba(0, 255, 255, 0.3);
+  border-radius: 16px;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  z-index: 1000;
+  animation: dropdownSlideIn 0.3s ease-out;
+}
+
+/* ✨ Floating Particles */
+.particles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.particle {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: rgba(0, 255, 255, 0.6);
+  border-radius: 50%;
+  animation: float 3s ease-in-out infinite;
+  animation-delay: var(--delay);
+}
+
+/* 📋 Dropdown Header */
+.dropdown-header {
+  padding: 16px;
+  border-bottom: 1px solid rgba(0, 255, 255, 0.2);
+  position: relative;
+}
+
+.profile-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+/* 🌀 Large Holographic Avatar */
+.large-holographic-avatar {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.large-avatar-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  z-index: 2;
+  position: relative;
+}
+
+.large-avatar-placeholder {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 2;
+  position: relative;
+}
+
+.large-holographic-ring {
+  position: absolute;
+  border: 2px solid rgba(0, 255, 255, 0.6);
+  border-radius: 50%;
+  animation: rotate 3s linear infinite;
+}
+
+.large-holographic-ring.ring-2 {
+  width: 110%;
+  height: 110%;
+  border-color: rgba(255, 0, 255, 0.4);
+  animation-duration: 4s;
+  animation-direction: reverse;
+}
+
+.large-holographic-ring.ring-3 {
+  width: 120%;
+  height: 120%;
+  border-color: rgba(0, 255, 0, 0.3);
+  animation-duration: 5s;
+}
+
+/* 📷 Upload Overlay */
+.upload-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 3;
+  border-radius: 50%;
+}
+
+.large-holographic-avatar:hover .upload-overlay {
+  opacity: 1;
+}
+
+.upload-btn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+}
+
+.upload-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.1);
+}
+
+/* 👤 User Details */
+.user-details {
+  flex: 1;
+}
+
+.user-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  margin: 0 0 4px 0;
+  line-height: 1.2;
+}
+
+.user-subtitle {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0 0 8px 0;
+  line-height: 1.2;
+}
+
+/* 🛡️ Admin Badge */
+.admin-badge {
+  position: relative;
+  display: inline-block;
+}
+
+.badge-text {
+  background: linear-gradient(135deg, #ff6b6b, #4ecdc4);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  position: relative;
+  z-index: 1;
+  animation: badge-pulse 2s ease-in-out infinite;
+}
+
+.badge-glow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, #ff6b6b, #4ecdc4);
+  border-radius: 12px;
+  filter: blur(4px);
+  opacity: 0.5;
+  animation: badge-pulse 2s ease-in-out infinite;
+}
+
+/* 📤 Upload Button */
+.upload-button {
+  width: 100%;
+  padding: 8px 12px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+.upload-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+}
+
+.upload-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.loading-spinner {
+  width: 12px;
+  height: 12px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-top: 2px solid white;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+/* 📋 Menu Items */
+.menu-items {
+  padding: 8px 0;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+}
+
+.menu-item:hover {
+  background: rgba(0, 255, 255, 0.1);
+  transform: translateX(4px);
+}
+
+.menu-item.hovered {
+  background: rgba(0, 255, 255, 0.15);
+  transform: translateX(4px);
+}
+
+.item-icon {
+  font-size: 16px;
+  min-width: 20px;
+}
+
+.item-text {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.item-glow {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 3px;
+  height: 100%;
+  background: linear-gradient(135deg, #00d4ff, #bc13fe);
+  transform: scaleY(0);
+  transition: transform 0.3s ease;
+}
+
+.menu-item:hover .item-glow {
+  transform: scaleY(1);
+}
+
+/* 🛡️ Admin Item */
+.admin-item {
+  background: rgba(255, 107, 107, 0.1);
+  border-left: 3px solid #ff6b6b;
+}
+
+.admin-item:hover {
+  background: rgba(255, 107, 107, 0.2);
+  border-left-color: #ff6b6b;
+}
+
+/* 🛡️ Admin Logout Button */
+.admin-logout-item {
+  background: rgba(255, 107, 107, 0.1);
+  border-left: 3px solid #ff6b6b;
+  color: #ff6b6b;
+}
+
+.admin-logout-item:hover {
+  background: rgba(255, 107, 107, 0.2);
+  border-left-color: #ff6b6b;
+  color: #ff6b6b;
+}
+
+.admin-logout-item .item-glow {
+  background: linear-gradient(135deg, #ff6b6b, #ff4757);
+}
+
+/* 🚪 Logout Item */
+.logout-item {
+  background: rgba(255, 71, 87, 0.1);
+  border-left: 3px solid #ff4757;
+  color: #ff4757;
+}
+
+.logout-item:hover {
+  background: rgba(255, 71, 87, 0.2);
+  border-left-color: #ff4757;
+  color: #ff4757;
+}
+
+.logout-item .item-glow {
+  background: linear-gradient(135deg, #ff4757, #ff3742);
+}
+
+/* ➗ Menu Divider */
+.menu-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(0, 255, 255, 0.3), transparent);
+  margin: 8px 16px;
+}
+
+/* 🎭 Animations */
+@keyframes holographic-pulse {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0; }
+  50% { transform: translateY(-20px) rotate(180deg); opacity: 1; }
+}
+
+@keyframes dropdownSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes badge-pulse {
+  0%, 100% { opacity: 0.5; transform: scale(1); }
+  50% { opacity: 0.8; transform: scale(1.05); }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* 📱 Responsive Design */
+@media (max-width: 768px) {
+  .futuristic-profile-btn {
+    padding: 4px 8px;
+    gap: 6px;
+  }
+
+  .holographic-avatar {
+    width: 28px;
+    height: 28px;
+  }
+
+  .user-info {
+    display: none;
+  }
+
+  .futuristic-dropdown {
+    width: 260px;
+    right: -20px;
+  }
+
+  .dropdown-header {
+    padding: 12px;
+  }
+
+  .profile-section {
+    gap: 10px;
+  }
+
+  .large-holographic-avatar {
+    width: 50px;
+    height: 50px;
+  }
+
+  .large-avatar-placeholder {
+    font-size: 18px;
+  }
+
+  .user-title {
+    font-size: 14px;
+  }
+
+  .user-subtitle {
+    font-size: 11px;
+  }
+
+  .upload-button {
+    padding: 6px 10px;
+    font-size: 11px;
+  }
+
+  .menu-items {
+    padding: 6px 0;
+  }
+
+  .menu-item {
+    padding: 10px 14px;
+  }
+
+  .item-icon {
+    font-size: 14px;
+  }
+
+  .item-text {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .futuristic-dropdown {
+    width: 240px;
+    right: -30px;
+  }
+
+  .dropdown-header {
+    padding: 10px;
+  }
+
+  .profile-section {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .large-holographic-avatar {
+    width: 45px;
+    height: 45px;
+  }
+
+  .large-avatar-placeholder {
+    font-size: 16px;
+  }
+
+  .user-title {
+    font-size: 13px;
+  }
+
+  .user-subtitle {
+    font-size: 10px;
+  }
+
+  .upload-button {
+    padding: 5px 8px;
+    font-size: 10px;
+  }
+
+  .menu-items {
+    padding: 4px 0;
+  }
+
+  .menu-item {
+    padding: 8px 12px;
+  }
+
+  .item-icon {
+    font-size: 12px;
+  }
+
+  .item-text {
+    font-size: 12px;
+  }
+}
+
+/* 🌙 Dark Mode Enhancements */
+@media (prefers-color-scheme: dark) {
+  .futuristic-dropdown {
+    background: rgba(0, 0, 0, 0.98);
+    border-color: rgba(0, 255, 255, 0.4);
+  }
+}
+
+/* ⚡ Hover Effects */
+.futuristic-profile-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
+}
+
+.menu-item:active {
+  transform: translateX(2px);
+  background: rgba(0, 255, 255, 0.2);
+}
+
+/* 🎨 Custom Scrollbar */
+.futuristic-dropdown::-webkit-scrollbar {
+  width: 4px;
+}
+
+.futuristic-dropdown::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.futuristic-dropdown::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #00d4ff, #bc13fe);
+  border-radius: 2px;
+}
+
+/* 🔥 Glitch Effect */
+@keyframes glitch {
+  0%, 100% { transform: translate(0); }
+  20% { transform: translate(-2px, 2px); }
+  40% { transform: translate(-2px, -2px); }
+  60% { transform: translate(2px, 2px); }
+  80% { transform: translate(2px, -2px); }
+}
+
+.menu-item:hover .item-text {
+  animation: glitch 0.3s ease-in-out;
+}
+
+/* ✨ Sparkle Effect */
+@keyframes sparkle {
+  0%, 100% { opacity: 0; transform: scale(0); }
+  50% { opacity: 1; transform: scale(1); }
+}
+
+.menu-item::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 16px;
+  width: 4px;
+  height: 4px;
+  background: rgba(0, 255, 255, 0.6);
+  border-radius: 50%;
+  transform: translateY(-50%) scale(0);
+  transition: transform 0.3s ease;
+}
+
+.menu-item:hover::after {
+  transform: translateY(-50%) scale(1);
+  animation: sparkle 0.6s ease-in-out;
+}
+
+/* Hidden File Input */
+.hidden-file-input {
+  display: none;
+} 

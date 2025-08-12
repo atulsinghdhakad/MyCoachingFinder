@@ -1,0 +1,179 @@
+/* Tailwind's base styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles for dark mode */
+body {
+  background-color: #ffffff;
+  color: #000000;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark {
+  background-color: #0f172a; /* Dark background for dark mode */
+  color: #ffffff; /* Light text color for dark mode */
+}
+
+/* Custom link-underline effect */
+.link-underline {
+  @apply relative inline-block text-sm font-medium text-gray-800 dark:text-white;
+}
+
+.link-underline::after {
+  @apply absolute left-1/2 -translate-x-1/2 bottom-0 h-[2px] w-0 bg-[rgb(0,128,255)] transition-all duration-300 ease-in-out;
+  content: '';
+}
+
+.link-underline::before {
+  @apply absolute left-1/2 -translate-x-1/2 bottom-1.5 h-[2px] w-0 bg-[rgb(0,128,255)] transition-all duration-300 ease-in-out;
+  content: '';
+}
+
+.link-underline:hover::after,
+.link-underline:hover::before {
+  @apply w-full;
+}
+
+/* Apply the hover underline effect on links */
+.link-underline {
+  @apply relative inline-block text-base font-medium text-gray-800 dark:text-white 
+         after:absolute after:left-1/2 after:-translate-x-1/2 after:bottom-0 after:h-[2px] after:w-0 after:bg-[rgb(0,128,255)] after:transition-all after:duration-300 after:ease-in-out hover:after:w-full
+         before:absolute before:left-1/2 before:-translate-x-1/2 before:bottom-1.5 before:h-[2px] before:w-0 before:bg-[rgb(0,128,255)] before:transition-all before:duration-300 before:ease-in-out hover:before:w-full;
+}
+
+/* Custom Scrollbar styles */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+/* Input styles for dark mode and light mode */
+input, textarea, select {
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid #d1d5db;
+  transition: all 0.3s ease-in-out;
+}
+
+input:focus, textarea:focus, select:focus {
+  border-color: #3b82f6;
+  outline: none;
+}
+
+body.dark input, body.dark textarea, body.dark select {
+  background-color: #1f2937; /* Dark input background */
+  color: #ffffff;
+  border: 1px solid #4b5563;
+}
+
+body.dark input:focus, body.dark textarea:focus, body.dark select:focus {
+  border-color: #60a5fa;
+}
+
+/* Link hover effects */
+a:hover {
+  text-decoration: underline;
+  color: #3b82f6; /* Blue color on hover */
+}
+
+a {
+  transition: color 0.2s ease;
+}
+
+body.dark a:hover {
+  color: #93c5fd; /* Lighter blue in dark mode */
+}
+
+
+
+
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+}
+
+.animate-slideUp {
+  animation: slideUp 0.5s ease forwards;
+}
+
+.animate-slideDown {
+  animation: slideDown 0.5s ease forwards;
+}
+
+
+
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+}
+
+.animate-slideUp {
+  animation: slideUp 0.5s ease forwards;
+}
+
+.animate-slideDown {
+  animation: slideDown 0.5s ease forwards;
+}
+
+
+
+.loader {
+  border: 3px solid #f3f3f3;
+  border-top: 3px solid #6d28d9;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

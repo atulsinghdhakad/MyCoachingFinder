@@ -1,0 +1,27 @@
+# Coaching Finder: Frontend RBAC & Test Summary
+
+## RBAC Integration
+- Frontend uses AuthContext to extract roles from Firebase Auth custom claims.
+- Role helpers (`roleGreaterOrEqual`, `hasRole`, `hasAnyRole`) enable dynamic UI and route protection.
+- ProtectedAdminRoute and related components use AuthContext for RBAC checks.
+- Fallback admin by email supported for transition, but discouraged.
+
+## Testing & Mocks
+- Jest and React Testing Library used for all frontend tests.
+- Firebase Auth modular SDK is fully mocked, including `getAuth`, `onIdTokenChanged`, and token refresh simulation.
+- Jest mock factories avoid referencing `window` (now use `global.mockTriggerAuthChange`).
+- All RBAC helpers are mocked in context for route tests.
+- Import paths and RBAC helpers in test providers fixed for compatibility.
+- `@testing-library/jest-dom` installed for matcher support.
+
+## Test Results
+- All AuthContext RBAC and ProtectedRoute tests now pass (7/7 total).
+- Tests cover role extraction, RBAC helpers, protected route gating, and fallback admin logic.
+
+## Security
+- No frontend role assignment; all role checks are read-only from backend-issued claims.
+- UI and routes update dynamically on role/token changes.
+
+---
+
+**Status:** All frontend RBAC and route protection tests pass. UI and routing are secure and role-aware.

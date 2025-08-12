@@ -1,0 +1,8 @@
+/* Import Circular Std from CDN (recommended) */
+@import url('https://fonts.cdnfonts.com/css/circular-std');
+
+/* Apply global font fallback stack */
+body,
+.font-circular {
+    font-family: 'Circular Std', 'Spotify Circular', 'CircularSp', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}

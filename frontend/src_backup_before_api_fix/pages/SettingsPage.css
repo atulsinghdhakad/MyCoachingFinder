@@ -1,0 +1,282 @@
+/* SettingsPage Styles */
+
+/* Toggle switch animations */
+.toggle-switch {
+  transition: all 0.3s ease;
+}
+
+.toggle-switch:hover {
+  transform: scale(1.05);
+}
+
+/* Card hover effects */
+.settings-card {
+  transition: all 0.3s ease;
+  transform: translateY(0);
+}
+
+.settings-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* Form input focus effects */
+.settings-input:focus {
+  transform: scale(1.02);
+  transition: transform 0.2s ease;
+}
+
+/* Button hover effects */
+.save-button {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.save-button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: left 0.5s;
+}
+
+.save-button:hover::before {
+  left: 100%;
+}
+
+.save-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+}
+
+/* Section header animations */
+.section-header {
+  transition: all 0.3s ease;
+}
+
+.section-header:hover {
+  transform: translateX(5px);
+}
+
+/* Icon animations */
+.settings-icon {
+  transition: all 0.3s ease;
+}
+
+.settings-icon:hover {
+  transform: rotate(15deg) scale(1.1);
+}
+
+/* Loading animation */
+.loading-spinner {
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #667eea;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Fade in animation for page content */
+.settings-content {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Staggered animation for settings sections */
+.settings-section {
+  animation: slideInLeft 0.6s ease-out;
+  animation-fill-mode: both;
+}
+
+.settings-section:nth-child(1) { animation-delay: 0.1s; }
+.settings-section:nth-child(2) { animation-delay: 0.2s; }
+.settings-section:nth-child(3) { animation-delay: 0.3s; }
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .settings-card {
+    margin-bottom: 1rem;
+  }
+  
+  .settings-section {
+    animation-delay: 0s !important;
+  }
+}
+
+/* Dark mode specific styles */
+.dark .settings-card {
+  background: linear-gradient(135deg, #1f2937 0%, #374151 100%);
+}
+
+.dark .settings-input {
+  background-color: #374151;
+  border-color: #4b5563;
+  color: #f9fafb;
+}
+
+.dark .settings-input:focus {
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+/* Smooth transitions for all interactive elements */
+.settings-page * {
+  transition: all 0.2s ease;
+}
+
+/* Checkbox custom styling */
+.custom-checkbox {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.custom-checkbox input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: .4s;
+  border-radius: 34px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: .4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #667eea;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #667eea;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+/* Success animation for save button */
+.save-success {
+  animation: saveSuccess 0.6s ease-out;
+}
+
+@keyframes saveSuccess {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Hover effects for select dropdowns */
+.settings-select {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.settings-select:hover {
+  border-color: #667eea;
+  transform: translateY(-1px);
+}
+
+/* Label hover effects */
+.settings-label {
+  transition: all 0.3s ease;
+}
+
+.settings-label:hover {
+  color: #667eea;
+}
+
+/* Description text styling */
+.settings-description {
+  transition: all 0.3s ease;
+  opacity: 0.7;
+}
+
+.settings-description:hover {
+  opacity: 1;
+}
+
+/* Responsive grid adjustments */
+@media (max-width: 640px) {
+  .settings-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Accessibility improvements */
+.settings-page button:focus,
+.settings-page input:focus,
+.settings-page select:focus {
+  outline: 2px solid #667eea;
+  outline-offset: 2px;
+}
+
+/* Print styles */
+@media print {
+  .settings-page {
+    background: white !important;
+    color: black !important;
+  }
+  
+  .settings-card {
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+  }
+} 

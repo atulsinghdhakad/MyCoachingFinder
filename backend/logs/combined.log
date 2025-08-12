@@ -1,0 +1,583 @@
+2025-08-03T15:26:40.720Z [INFO]: 🚀 Server running on http://localhost:5001
+2025-08-03T15:26:41.260Z [INFO]: 🗄️ Connected to MongoDB
+2025-08-03T15:26:54.290Z [INFO]: 🚀 Server running on http://localhost:5001
+2025-08-03T15:26:54.809Z [INFO]: 🗄️ Connected to MongoDB
+2025-08-03T19:28:55.956Z [ERROR]: ❌ Failed to set role:
+2025-08-03T19:29:21.386Z [ERROR]: ❌ Failed to set role:
+2025-08-03T19:30:42.987Z [ERROR]: ❌ Failed to set role:
+2025-08-04T07:30:21.804Z [INFO]: 🚀 Server running on http://localhost:5001
+2025-08-04T07:30:22.543Z [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 1:02:33 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 1:02:34 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 1:02:42 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 1:02:42 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 1:11:55 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 1:11:56 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 1:25:59 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 1:26:00 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 1:26:03 pm [INFO]: 🟢 Socket connected: TLhh0lSZ_KBSHtflAAAB
+4/8/2025, 1:26:03 pm [INFO]: 🟢 Socket connected: _aiSsl0rRMklW9voAAAD
+4/8/2025, 1:34:06 pm [INFO]: 🔴 Socket disconnected: _aiSsl0rRMklW9voAAAD
+4/8/2025, 1:34:06 pm [INFO]: 🟢 Socket connected: AHeLFBoWVdNCQegMAAAF
+4/8/2025, 1:36:16 pm [INFO]: 🔴 Socket disconnected: AHeLFBoWVdNCQegMAAAF
+4/8/2025, 1:36:16 pm [INFO]: 🟢 Socket connected: ueAjDfx3EgcGBDorAAAH
+4/8/2025, 1:52:35 pm [INFO]: 🔴 Socket disconnected: ueAjDfx3EgcGBDorAAAH
+4/8/2025, 3:56:50 pm [INFO]: 🟢 Socket connected: O1WCP4_9KmJL5y-pAAAJ
+4/8/2025, 4:05:23 pm [INFO]: 🔴 Socket disconnected: O1WCP4_9KmJL5y-pAAAJ
+4/8/2025, 4:34:19 pm [INFO]: 🔴 Socket disconnected: TLhh0lSZ_KBSHtflAAAB
+4/8/2025, 4:34:28 pm [INFO]: 🟢 Socket connected: vNq9U5WOZ8sGBre7AAAL
+4/8/2025, 4:34:41 pm [INFO]: 🔴 Socket disconnected: vNq9U5WOZ8sGBre7AAAL
+4/8/2025, 4:34:41 pm [INFO]: 🟢 Socket connected: 1p2Jrk_VwzkVQlIcAAAN
+4/8/2025, 4:43:06 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 4:43:06 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 4:43:10 pm [INFO]: 🟢 Socket connected: LV5JEGan0fPTJVM9AAAB
+4/8/2025, 4:46:34 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 4:46:38 pm [INFO]: 🟢 Socket connected: _nRPXqFNZCLiPL6NAAAB
+4/8/2025, 4:46:48 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 4:52:41 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+4/8/2025, 4:52:41 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 4:52:42 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 4:52:47 pm [INFO]: 🟢 Socket connected: GTFl_ymMLRq8cxIXAAAB
+4/8/2025, 4:55:20 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+4/8/2025, 4:55:20 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 4:55:21 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 4:55:25 pm [INFO]: 🟢 Socket connected: _n3h-CMR4nRhr1-4AAAB
+4/8/2025, 4:56:31 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+4/8/2025, 4:56:31 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 4:56:32 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 4:56:33 pm [INFO]: 🟢 Socket connected: OxX0K76qMDyo60XlAAAB
+4/8/2025, 5:03:43 pm [INFO]: 🔴 Socket disconnected: OxX0K76qMDyo60XlAAAB
+4/8/2025, 5:03:44 pm [INFO]: 🟢 Socket connected: _DyJhYPsTiQpmj3uAAAD
+4/8/2025, 5:04:12 pm [INFO]: 🔴 Socket disconnected: _DyJhYPsTiQpmj3uAAAD
+4/8/2025, 5:04:13 pm [INFO]: 🟢 Socket connected: wAnXVVLjdubzKl6gAAAF
+4/8/2025, 5:06:01 pm [INFO]: 🔴 Socket disconnected: wAnXVVLjdubzKl6gAAAF
+4/8/2025, 5:06:02 pm [INFO]: 🟢 Socket connected: cXu3_5bhypQVTwErAAAH
+4/8/2025, 5:42:02 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+4/8/2025, 5:42:02 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 5:42:03 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 5:42:03 pm [INFO]: 🟢 Socket connected: Qtla66un6s7qOItOAAAB
+4/8/2025, 5:46:39 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 5:48:45 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 7:50:42 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 7:50:42 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 7:50:43 pm [INFO]: User found: true
+4/8/2025, 7:50:43 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 7:50:56 pm [INFO]: 🔴 Socket disconnected: Qtla66un6s7qOItOAAAB
+4/8/2025, 7:50:56 pm [INFO]: 🟢 Socket connected: cqeUbvqUwXxeQBHNAAAD
+4/8/2025, 7:52:07 pm [INFO]: 🔴 Socket disconnected: cqeUbvqUwXxeQBHNAAAD
+4/8/2025, 7:52:07 pm [INFO]: 🟢 Socket connected: NSIaSLF3KWrGI59CAAAF
+4/8/2025, 7:52:15 pm [INFO]: 🔴 Socket disconnected: NSIaSLF3KWrGI59CAAAF
+4/8/2025, 7:52:15 pm [INFO]: 🟢 Socket connected: wTt8c0EB_WnjuSw8AAAH
+4/8/2025, 7:52:29 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 7:52:33 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 7:52:33 pm [INFO]: Checking if phone number is registered: +917542789426
+4/8/2025, 7:52:34 pm [INFO]: User not found for phone: +917542789426
+4/8/2025, 7:52:50 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 7:52:52 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 7:52:52 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 7:52:53 pm [INFO]: User found: true
+4/8/2025, 7:52:53 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 7:53:30 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 7:53:30 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 7:53:30 pm [INFO]: User found: true
+4/8/2025, 7:53:30 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 7:54:23 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 7:54:23 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 7:54:24 pm [INFO]: User found: true
+4/8/2025, 7:54:24 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 7:57:12 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:04:53 pm [INFO]: 🔴 Socket disconnected: wTt8c0EB_WnjuSw8AAAH
+4/8/2025, 8:04:53 pm [INFO]: 🟢 Socket connected: qVMCjDJz8r02wF1oAAAJ
+4/8/2025, 8:05:01 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:05:18 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:05:20 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:05:20 pm [INFO]: Checking if phone number is registered: +917427804653
+4/8/2025, 8:05:20 pm [INFO]: User not found for phone: +917427804653
+4/8/2025, 8:05:29 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:05:30 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:05:30 pm [INFO]: Checking if phone number is registered: +919893902072
+4/8/2025, 8:05:30 pm [INFO]: User found: true
+4/8/2025, 8:05:30 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:05:45 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:05:47 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:05:47 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 8:05:47 pm [INFO]: User found: true
+4/8/2025, 8:05:47 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:09:55 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:11:02 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:11:02 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 8:11:03 pm [INFO]: User found: true
+4/8/2025, 8:11:03 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:30:05 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:30:06 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:30:06 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 8:30:07 pm [INFO]: User found: true
+4/8/2025, 8:30:07 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:33:57 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:34:29 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:34:29 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 8:34:29 pm [INFO]: User found: true
+4/8/2025, 8:34:29 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:34:40 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:34:40 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 8:34:40 pm [INFO]: User found: true
+4/8/2025, 8:34:40 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:34:47 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:34:47 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 8:34:47 pm [INFO]: User found: true
+4/8/2025, 8:34:47 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:36:38 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:37:32 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:37:32 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 8:37:32 pm [INFO]: User found: true
+4/8/2025, 8:37:32 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:45:37 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:45:37 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 8:45:38 pm [INFO]: User found: true
+4/8/2025, 8:45:38 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:48:45 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:48:45 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 8:48:46 pm [INFO]: User found: true
+4/8/2025, 8:48:46 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:55:06 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 8:55:07 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 8:55:07 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 8:55:08 pm [INFO]: User found: true
+4/8/2025, 8:55:08 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 9:01:45 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 9:01:45 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 9:01:46 pm [INFO]: User found: true
+4/8/2025, 9:01:46 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 9:01:54 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 9:01:54 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 9:01:54 pm [INFO]: User found: true
+4/8/2025, 9:01:54 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 9:01:57 pm [INFO]: 🔴 Socket disconnected: qVMCjDJz8r02wF1oAAAJ
+4/8/2025, 11:48:59 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+4/8/2025, 11:48:59 pm [INFO]: 🚀 Server running on http://localhost:5001
+4/8/2025, 11:49:02 pm [INFO]: 🗄️ Connected to MongoDB
+4/8/2025, 11:49:17 pm [INFO]: 🟢 Socket connected: nuXbUsmxOxSbvSU-AAAB
+4/8/2025, 11:49:57 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 11:50:50 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 11:50:50 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 11:50:51 pm [INFO]: User found: true
+4/8/2025, 11:50:51 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 11:52:02 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 11:56:47 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 11:56:55 pm [INFO]: Received request to /api/otp/is-firebase-registered
+4/8/2025, 11:56:55 pm [INFO]: Checking if phone number is registered: +917427802072
+4/8/2025, 11:56:56 pm [INFO]: User found: true
+4/8/2025, 11:56:56 pm [INFO]: Received request to /api/otp/attempt-meta
+4/8/2025, 11:57:35 pm [INFO]: Received request to /api/otp/attempt-meta
+5/8/2025, 12:01:21 am [INFO]: Received request to /api/otp/attempt-meta
+5/8/2025, 12:01:22 am [INFO]: Received request to /api/otp/is-firebase-registered
+5/8/2025, 12:01:22 am [INFO]: Checking if phone number is registered: +917427802072
+5/8/2025, 12:01:22 am [INFO]: User found: true
+5/8/2025, 12:01:22 am [INFO]: Received request to /api/otp/attempt-meta
+5/8/2025, 12:03:48 am [INFO]: 🔴 Socket disconnected: nuXbUsmxOxSbvSU-AAAB
+5/8/2025, 12:03:49 am [INFO]: 🟢 Socket connected: TikUsFTrdrlsGpIWAAAD
+5/8/2025, 12:05:39 am [INFO]: 🔴 Socket disconnected: TikUsFTrdrlsGpIWAAAD
+5/8/2025, 12:05:39 am [INFO]: 🟢 Socket connected: SgoTzSFVxp0ItMDAAAAF
+5/8/2025, 12:07:46 am [INFO]: 🔴 Socket disconnected: SgoTzSFVxp0ItMDAAAAF
+5/8/2025, 12:07:46 am [INFO]: 🟢 Socket connected: YMXVehYxVZFmWP1nAAAH
+5/8/2025, 12:24:06 am [INFO]: 🔴 Socket disconnected: YMXVehYxVZFmWP1nAAAH
+5/8/2025, 12:24:07 am [INFO]: 🟢 Socket connected: O6GjMSnOnGTJnJrxAAAJ
+5/8/2025, 1:36:34 am [INFO]: 🟢 Socket connected: dVGxMGhdUAa-CpQHAAAL
+5/8/2025, 1:46:49 am [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+5/8/2025, 1:46:49 am [INFO]: 🚀 Server running on http://localhost:5001
+5/8/2025, 1:46:50 am [INFO]: 🟢 Socket connected: ItYdCf-xBiJiTrYPAAAB
+5/8/2025, 1:46:52 am [INFO]: 🟢 Socket connected: yv46UCgFJ8-zVyn2AAAD
+5/8/2025, 1:46:53 am [INFO]: 🗄️ Connected to MongoDB
+5/8/2025, 2:02:30 am [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+5/8/2025, 2:02:30 am [INFO]: 🚀 Server running on http://localhost:5001
+5/8/2025, 2:02:33 am [INFO]: 🟢 Socket connected: NnQLvnRkOiGQ6Na8AAAB
+5/8/2025, 2:02:34 am [INFO]: 🗄️ Connected to MongoDB
+5/8/2025, 2:02:35 am [INFO]: 🟢 Socket connected: GIs8rQR5w4gTKkTnAAAD
+5/8/2025, 2:02:49 am [INFO]: 🔴 Socket disconnected: GIs8rQR5w4gTKkTnAAAD
+5/8/2025, 2:02:50 am [INFO]: 🟢 Socket connected: PDB18AFIIjFcfHSTAAAF
+5/8/2025, 2:08:07 am [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+5/8/2025, 2:08:07 am [INFO]: 🚀 Server running on http://localhost:5001
+5/8/2025, 2:08:08 am [INFO]: 🟢 Socket connected: lGBWjTbyCBGhhTerAAAB
+5/8/2025, 2:08:09 am [INFO]: 🟢 Socket connected: xbb3Aso4e7bOaZ4IAAAD
+5/8/2025, 2:08:11 am [INFO]: 🗄️ Connected to MongoDB
+5/8/2025, 2:13:17 am [INFO]: 🔴 Socket disconnected: xbb3Aso4e7bOaZ4IAAAD
+5/8/2025, 2:13:17 am [INFO]: 🟢 Socket connected: r_7OFEZDWkfgy-QzAAAF
+5/8/2025, 2:26:14 am [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+5/8/2025, 2:26:14 am [INFO]: 🚀 Server running on http://localhost:5001
+5/8/2025, 2:26:14 am [INFO]: 🟢 Socket connected: hbqZfF4ARXzbkrLtAAAB
+5/8/2025, 2:26:14 am [INFO]: 🟢 Socket connected: 1ZFsMbZX2ngZcgVQAAAD
+5/8/2025, 2:26:17 am [INFO]: 🗄️ Connected to MongoDB
+5/8/2025, 2:26:22 am [INFO]: 🔴 Socket disconnected: hbqZfF4ARXzbkrLtAAAB
+5/8/2025, 2:26:23 am [INFO]: 🟢 Socket connected: 2iNIfTvz0BjEDc1iAAAF
+5/8/2025, 3:57:01 am [INFO]: 🔴 Socket disconnected: 1ZFsMbZX2ngZcgVQAAAD
+5/8/2025, 3:57:01 am [INFO]: 🔴 Socket disconnected: 2iNIfTvz0BjEDc1iAAAF
+5/8/2025, 3:57:02 am [INFO]: 🟢 Socket connected: PNq3cUYOSaveZLLmAAAH
+5/8/2025, 3:57:03 am [INFO]: 🟢 Socket connected: F0HS1kRPNaeTao1wAAAJ
+5/8/2025, 8:46:41 pm [INFO]: 🔴 Socket disconnected: F0HS1kRPNaeTao1wAAAJ
+5/8/2025, 8:46:41 pm [INFO]: 🔴 Socket disconnected: PNq3cUYOSaveZLLmAAAH
+5/8/2025, 8:46:41 pm [INFO]: 🟢 Socket connected: 14E6cSduVle-RFwyAAAL
+5/8/2025, 8:46:42 pm [INFO]: 🟢 Socket connected: y3fv_pByyrNiXb4qAAAN
+6/8/2025, 1:23:31 am [INFO]: 🔴 Socket disconnected: 14E6cSduVle-RFwyAAAL
+6/8/2025, 1:23:31 am [INFO]: 🟢 Socket connected: PA0nx63eVELdDh_IAAAP
+6/8/2025, 1:43:50 am [INFO]: 🔴 Socket disconnected: PA0nx63eVELdDh_IAAAP
+6/8/2025, 1:43:50 am [INFO]: 🔴 Socket disconnected: y3fv_pByyrNiXb4qAAAN
+6/8/2025, 1:43:51 am [INFO]: 🟢 Socket connected: uwH8jEgRFacnsMmIAAAR
+6/8/2025, 1:43:52 am [INFO]: 🟢 Socket connected: deqahCDEDEFplHQUAAAT
+6/8/2025, 1:53:24 am [INFO]: 🔴 Socket disconnected: uwH8jEgRFacnsMmIAAAR
+6/8/2025, 1:53:25 am [INFO]: 🟢 Socket connected: h-9O7W1sdjHjdHOkAAAV
+6/8/2025, 2:00:08 am [INFO]: 🔴 Socket disconnected: h-9O7W1sdjHjdHOkAAAV
+6/8/2025, 2:00:09 am [INFO]: 🟢 Socket connected: 4RivK9OE3k1TNkoIAAAX
+6/8/2025, 2:01:30 am [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+6/8/2025, 2:01:30 am [INFO]: 🚀 Server running on http://localhost:5001
+6/8/2025, 2:01:31 am [INFO]: 🗄️ Connected to MongoDB
+6/8/2025, 2:01:31 am [INFO]: 🟢 Socket connected: N2e23acDlCQFsCcEAAAB
+6/8/2025, 2:01:32 am [INFO]: 🟢 Socket connected: pwrfjrd8PCp6q9BoAAAD
+6/8/2025, 2:01:56 am [INFO]: 🔴 Socket disconnected: pwrfjrd8PCp6q9BoAAAD
+6/8/2025, 2:01:56 am [INFO]: 🟢 Socket connected: hoEYMXhdKTUngTyXAAAF
+6/8/2025, 2:05:01 am [INFO]: 🔴 Socket disconnected: hoEYMXhdKTUngTyXAAAF
+6/8/2025, 2:05:02 am [INFO]: 🟢 Socket connected: Fj78FA32gKx3LYimAAAH
+6/8/2025, 2:22:56 am [INFO]: 🔴 Socket disconnected: N2e23acDlCQFsCcEAAAB
+6/8/2025, 2:23:21 am [INFO]: 🔴 Socket disconnected: Fj78FA32gKx3LYimAAAH
+6/8/2025, 2:23:21 am [INFO]: 🟢 Socket connected: AcfCJCY-IapEQdfPAAAJ
+6/8/2025, 2:24:21 am [INFO]: 🔴 Socket disconnected: AcfCJCY-IapEQdfPAAAJ
+6/8/2025, 2:24:21 am [INFO]: 🟢 Socket connected: OktIqEQ4sN6f4tCcAAAL
+6/8/2025, 2:31:46 am [INFO]: 🔴 Socket disconnected: OktIqEQ4sN6f4tCcAAAL
+6/8/2025, 2:31:46 am [INFO]: 🟢 Socket connected: SeINXSRij7gvshP-AAAN
+6/8/2025, 8:34:17 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+6/8/2025, 8:34:17 pm [INFO]: 🚀 Server running on http://localhost:5001
+6/8/2025, 8:34:18 pm [INFO]: 🗄️ Connected to MongoDB
+6/8/2025, 8:34:26 pm [INFO]: 🟢 Socket connected: 50dpKhx7SzPDNcIiAAAB
+6/8/2025, 8:57:15 pm [INFO]: 🔴 Socket disconnected: 50dpKhx7SzPDNcIiAAAB
+6/8/2025, 8:57:34 pm [INFO]: 🟢 Socket connected: DnIUe3xwOzJx5FGZAAAD
+6/8/2025, 9:15:29 pm [INFO]: 🔴 Socket disconnected: DnIUe3xwOzJx5FGZAAAD
+6/8/2025, 9:15:30 pm [INFO]: 🟢 Socket connected: kk7b3WNh5cxHf77VAAAF
+6/8/2025, 11:19:37 pm [INFO]: 🔴 Socket disconnected: kk7b3WNh5cxHf77VAAAF
+6/8/2025, 11:19:39 pm [INFO]: 🟢 Socket connected: 4XeZiB-VGFsAhT1-AAAH
+6/8/2025, 11:22:39 pm [INFO]: 🔴 Socket disconnected: 4XeZiB-VGFsAhT1-AAAH
+6/8/2025, 11:22:41 pm [INFO]: 🟢 Socket connected: Mw9GVfLv-gsXgsFxAAAJ
+7/8/2025, 2:17:15 am [INFO]: 🔴 Socket disconnected: Mw9GVfLv-gsXgsFxAAAJ
+7/8/2025, 2:17:16 am [INFO]: 🟢 Socket connected: NdlV8WvNN3qX5iXWAAAL
+7/8/2025, 2:57:08 am [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+7/8/2025, 2:57:08 am [INFO]: 🚀 Server running on http://localhost:5001
+7/8/2025, 2:57:09 am [INFO]: 🗄️ Connected to MongoDB
+7/8/2025, 2:57:10 am [INFO]: 🟢 Socket connected: uNUQnTwmA7Yi6YvcAAAB
+7/8/2025, 2:57:20 am [INFO]: 🔴 Socket disconnected: uNUQnTwmA7Yi6YvcAAAB
+7/8/2025, 2:57:20 am [INFO]: 🟢 Socket connected: KrCI5uru3qS-mtEIAAAD
+7/8/2025, 3:21:38 am [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+7/8/2025, 3:21:38 am [INFO]: 🚀 Server running on http://localhost:5001
+7/8/2025, 3:21:38 am [INFO]: 🟢 Socket connected: yz1rlgUU_DGn5jjvAAAB
+7/8/2025, 3:21:43 am [INFO]: 🗄️ Connected to MongoDB
+7/8/2025, 3:23:11 am [INFO]: 🔴 Socket disconnected: yz1rlgUU_DGn5jjvAAAB
+7/8/2025, 12:21:04 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+7/8/2025, 12:21:04 pm [INFO]: 🚀 Server running on http://localhost:5001
+7/8/2025, 12:21:22 pm [INFO]: 🗄️ Connected to MongoDB
+7/8/2025, 12:23:40 pm [INFO]: 🟢 Socket connected: MpU90q1D6n5-ogEQAAAB
+7/8/2025, 12:23:41 pm [INFO]: 🟢 Socket connected: L_s7JMCsUnIvgC3SAAAD
+7/8/2025, 12:24:01 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+7/8/2025, 12:24:34 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+7/8/2025, 12:26:11 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+7/8/2025, 12:26:31 pm [INFO]: ✅ OTP verified event received for UID: z3KuBMNTt2YoneI4p5aocKG4i7G2
+7/8/2025, 12:27:45 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 12:28:00 pm [INFO]: ✅ OTP verified event received for UID: rBFT8AY5aHMySnADntavFI2orxJ2
+7/8/2025, 1:55:41 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+7/8/2025, 1:55:41 pm [INFO]: 🚀 Server running on http://localhost:5001
+7/8/2025, 1:55:44 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+7/8/2025, 1:55:44 pm [INFO]: 🚀 Server running on http://localhost:5001
+7/8/2025, 1:55:47 pm [INFO]: 🗄️ Connected to MongoDB
+7/8/2025, 1:55:48 pm [INFO]: 🟢 Socket connected: HAaywG51e6BlXguSAAAB
+7/8/2025, 1:55:50 pm [INFO]: 🟢 Socket connected: ACuw2Bs0VX3kWXNgAAAD
+7/8/2025, 1:55:50 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+7/8/2025, 1:55:50 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+7/8/2025, 1:55:50 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+7/8/2025, 1:55:57 pm [INFO]: 🔴 Socket disconnected: HAaywG51e6BlXguSAAAB
+7/8/2025, 1:55:57 pm [INFO]: 🔴 Socket disconnected: ACuw2Bs0VX3kWXNgAAAD
+7/8/2025, 1:55:58 pm [INFO]: 🟢 Socket connected: NqL6shzUumUzCk2gAAAF
+7/8/2025, 1:55:59 pm [INFO]: 🟢 Socket connected: fmxYwNEMRiUnI3FuAAAH
+7/8/2025, 2:08:32 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:11:15 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:12:51 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:14:48 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:16:19 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:20:42 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:23:05 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:24:32 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:25:56 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:26:47 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:29:08 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:39:22 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:41:40 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:49:31 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:50:51 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 2:53:51 pm [INFO]: 📤 OTP sent event received for phone: 9893902072
+7/8/2025, 4:06:07 pm [INFO]: 🔴 Socket disconnected: NqL6shzUumUzCk2gAAAF
+7/8/2025, 4:06:07 pm [INFO]: 🔴 Socket disconnected: fmxYwNEMRiUnI3FuAAAH
+7/8/2025, 4:06:09 pm [INFO]: 🟢 Socket connected: AdSJfpknBkEphx-QAAAJ
+7/8/2025, 4:06:09 pm [INFO]: 🟢 Socket connected: hD0uW9tptTWEAsixAAAL
+7/8/2025, 4:48:39 pm [INFO]: 🔴 Socket disconnected: AdSJfpknBkEphx-QAAAJ
+7/8/2025, 4:48:39 pm [INFO]: 🔴 Socket disconnected: hD0uW9tptTWEAsixAAAL
+7/8/2025, 4:48:40 pm [INFO]: 🟢 Socket connected: kWsujd4IaOJli7y5AAAO
+7/8/2025, 4:48:40 pm [INFO]: 🟢 Socket connected: CFsaMhCs5IxzmGppAAAP
+7/8/2025, 4:51:06 pm [INFO]: 🔴 Socket disconnected: kWsujd4IaOJli7y5AAAO
+7/8/2025, 4:51:06 pm [INFO]: 🔴 Socket disconnected: CFsaMhCs5IxzmGppAAAP
+7/8/2025, 4:51:07 pm [INFO]: 🟢 Socket connected: SkVBzaGgO2wJb_TiAAAS
+7/8/2025, 4:51:07 pm [INFO]: 🟢 Socket connected: VKOWBH6aamAhCEiJAAAT
+7/8/2025, 5:04:34 pm [INFO]: 🔴 Socket disconnected: VKOWBH6aamAhCEiJAAAT
+7/8/2025, 5:04:34 pm [INFO]: 🔴 Socket disconnected: SkVBzaGgO2wJb_TiAAAS
+7/8/2025, 5:04:34 pm [INFO]: 🟢 Socket connected: Pr07GNQoGUg6E9SgAAAW
+7/8/2025, 5:04:34 pm [INFO]: 🟢 Socket connected: lK7qkOqlQUAcD8y8AAAX
+7/8/2025, 5:33:33 pm [INFO]: 📤 OTP resent log: 7427802072, time: 2025-08-07T12:03:33.719Z, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+7/8/2025, 5:33:34 pm [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+7/8/2025, 5:33:36 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+7/8/2025, 5:34:36 pm [INFO]: 📤 OTP resent log: 7427802072, time: 2025-08-07T12:04:36.951Z, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+7/8/2025, 5:34:37 pm [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+7/8/2025, 5:34:37 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+7/8/2025, 5:35:34 pm [INFO]: 📤 OTP resent log: 7427802072, time: 2025-08-07T12:05:34.875Z, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+7/8/2025, 5:35:34 pm [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+7/8/2025, 5:35:35 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+7/8/2025, 5:36:53 pm [INFO]: 📤 OTP resent log: 7427802072, time: 2025-08-07T12:06:53.552Z, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+7/8/2025, 5:36:53 pm [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+7/8/2025, 5:36:54 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+7/8/2025, 5:39:34 pm [INFO]: 🟢 Socket connected: pL_j_OiINakoObW4AAAa
+7/8/2025, 5:39:34 pm [INFO]: 🟢 Socket connected: wJVfxFDwAEnu9aLJAAAb
+8/8/2025, 12:21:52 am [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+8/8/2025, 12:21:52 am [INFO]: 🚀 Server running on http://localhost:5001
+8/8/2025, 12:21:54 am [INFO]: 🗄️ Connected to MongoDB
+8/8/2025, 12:21:55 am [INFO]: 🟢 Socket connected: _jJFbYb88ioAmcsaAAAB
+8/8/2025, 12:21:59 am [INFO]: 🟢 Socket connected: uO4kWGDXspUwczE6AAAD
+8/8/2025, 12:25:23 am [INFO]: 🔴 Socket disconnected: _jJFbYb88ioAmcsaAAAB
+8/8/2025, 12:25:23 am [INFO]: 🔴 Socket disconnected: uO4kWGDXspUwczE6AAAD
+8/8/2025, 12:25:24 am [INFO]: 🟢 Socket connected: xWXRr0WuoXFM9Hb0AAAG
+8/8/2025, 12:25:24 am [INFO]: 🟢 Socket connected: ufLA6o7n56yRcmz1AAAH
+8/8/2025, 12:36:05 am [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+8/8/2025, 12:36:05 am [INFO]: 🚀 Server running on http://localhost:5001
+8/8/2025, 12:36:07 am [INFO]: 🗄️ Connected to MongoDB
+8/8/2025, 12:36:09 am [INFO]: 🟢 Socket connected: Y5T4WlArhnpOmsWjAAAB
+8/8/2025, 12:36:09 am [INFO]: 🟢 Socket connected: phv3q5hvLadYy7BfAAAD
+8/8/2025, 12:47:50 am [INFO]: 🔴 Socket disconnected: Y5T4WlArhnpOmsWjAAAB
+8/8/2025, 12:47:50 am [INFO]: 🔴 Socket disconnected: phv3q5hvLadYy7BfAAAD
+8/8/2025, 12:48:07 am [INFO]: 🟢 Socket connected: wMWndvCVS4wnrOh1AAAG
+8/8/2025, 12:48:07 am [INFO]: 🟢 Socket connected: ys5NkkraMBmfgG7JAAAH
+8/8/2025, 12:50:28 am [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+8/8/2025, 12:50:28 am [INFO]: 🚀 Server running on http://localhost:5001
+8/8/2025, 12:50:30 am [INFO]: 🟢 Socket connected: JSqsFsTmeYBwWKl6AAAB
+8/8/2025, 12:50:31 am [INFO]: 🟢 Socket connected: NFnPy1gYUQXv084wAAAD
+8/8/2025, 12:50:33 am [INFO]: 🔴 Socket disconnected: JSqsFsTmeYBwWKl6AAAB
+8/8/2025, 12:50:33 am [INFO]: 🔴 Socket disconnected: NFnPy1gYUQXv084wAAAD
+8/8/2025, 12:50:33 am [INFO]: 🟢 Socket connected: xYtDMVPEY9TTT0KzAAAG
+8/8/2025, 12:50:33 am [INFO]: 🟢 Socket connected: dbIkbczv6CKJgICVAAAH
+8/8/2025, 12:51:45 am [INFO]: 🗄️ Connected to MongoDB
+8/8/2025, 1:28:10 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 1:28:11 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:28:14 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 1:28:56 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 1:28:56 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:28:57 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 1:44:20 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 1:44:20 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:44:22 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 1:45:34 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 1:45:34 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:45:36 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 1:47:50 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 1:47:50 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:47:52 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 1:49:00 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 1:49:00 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:49:02 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 1:53:28 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 1:53:28 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:53:29 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 2:01:34 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 2:01:34 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 2:01:36 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 2:14:02 am [INFO]: 🔴 Socket disconnected: xYtDMVPEY9TTT0KzAAAG
+8/8/2025, 2:14:02 am [INFO]: 🔴 Socket disconnected: dbIkbczv6CKJgICVAAAH
+8/8/2025, 2:40:48 am [INFO]: 🟢 Socket connected: e0l4iQQz7Pf534PQAAAK
+8/8/2025, 2:40:48 am [INFO]: 🟢 Socket connected: 0e2KKipdDXJw9mK1AAAL
+8/8/2025, 2:56:35 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 2:56:35 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 2:56:35 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 2:56:35 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 2:56:36 am [INFO]: 📤 OTP resend attempt: 7427802072, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+8/8/2025, 2:56:36 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 2:56:38 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 2:56:38 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 2:56:39 am [INFO]: 📤 OTP sent event received for phone: 7427802072
+8/8/2025, 2:56:41 am [INFO]: 🔴 Socket disconnected: e0l4iQQz7Pf534PQAAAK
+8/8/2025, 2:56:41 am [INFO]: 🔴 Socket disconnected: 0e2KKipdDXJw9mK1AAAL
+8/8/2025, 2:56:41 am [INFO]: 🟢 Socket connected: 8xPe3XDUTD2pT-5kAAAO
+8/8/2025, 2:56:41 am [INFO]: 🟢 Socket connected: fubHKhHUEtO4Wg6GAAAP
+8/8/2025, 2:56:43 am [INFO]: 🔴 Socket disconnected: 8xPe3XDUTD2pT-5kAAAO
+8/8/2025, 2:56:43 am [INFO]: 🔴 Socket disconnected: fubHKhHUEtO4Wg6GAAAP
+8/8/2025, 2:56:43 am [INFO]: 🟢 Socket connected: RqDhpUfLIahFqR4QAAAS
+8/8/2025, 2:56:43 am [INFO]: 🟢 Socket connected: g8JVrZrBhwKHwEIwAAAT
+8/8/2025, 3:52:46 am [INFO]: 🔴 Socket disconnected: RqDhpUfLIahFqR4QAAAS
+8/8/2025, 3:52:46 am [INFO]: 🔴 Socket disconnected: g8JVrZrBhwKHwEIwAAAT
+8/8/2025, 3:52:48 am [INFO]: 🟢 Socket connected: QT-CGhOMYp2v0fxlAAAV
+8/8/2025, 3:52:48 am [INFO]: 🟢 Socket connected: UigJ7pI-yB0FcaYkAAAX
+8/8/2025, 3:48:24 pm [INFO]: 🔴 Socket disconnected: QT-CGhOMYp2v0fxlAAAV
+8/8/2025, 3:48:24 pm [INFO]: 🔴 Socket disconnected: UigJ7pI-yB0FcaYkAAAX
+8/8/2025, 3:48:24 pm [INFO]: 🟢 Socket connected: uwah2BdgLlZco3pfAAAZ
+8/8/2025, 3:48:26 pm [INFO]: 🟢 Socket connected: U64hgIAu0RlEo1UGAAAb
+8/8/2025, 5:25:26 pm [INFO]: 🔴 Socket disconnected: U64hgIAu0RlEo1UGAAAb
+8/8/2025, 5:25:26 pm [INFO]: 🔴 Socket disconnected: uwah2BdgLlZco3pfAAAZ
+8/8/2025, 5:25:27 pm [INFO]: 🟢 Socket connected: pnNpclCwloBeFfYiAAAd
+8/8/2025, 5:25:28 pm [INFO]: 🟢 Socket connected: QUQT4Ea_RusqaPFGAAAf
+8/8/2025, 7:27:02 pm [INFO]: 🔴 Socket disconnected: pnNpclCwloBeFfYiAAAd
+8/8/2025, 7:27:02 pm [INFO]: 🔴 Socket disconnected: QUQT4Ea_RusqaPFGAAAf
+8/8/2025, 7:27:03 pm [INFO]: 🟢 Socket connected: WOVPosCSNCQpPPO4AAAh
+8/8/2025, 7:27:03 pm [INFO]: 🟢 Socket connected: meqcHD-rDlet4PSzAAAj
+8/8/2025, 11:51:01 pm [INFO]: 🔴 Socket disconnected: WOVPosCSNCQpPPO4AAAh
+8/8/2025, 11:51:01 pm [INFO]: 🔴 Socket disconnected: meqcHD-rDlet4PSzAAAj
+8/8/2025, 11:51:02 pm [INFO]: 🟢 Socket connected: sqJdLgRYgKAo3DJfAAAl
+8/8/2025, 11:51:03 pm [INFO]: 🟢 Socket connected: DsBKBRVi_gKVgOxHAAAn
+9/8/2025, 12:26:19 am [INFO]: 🔴 Socket disconnected: DsBKBRVi_gKVgOxHAAAn
+9/8/2025, 12:26:19 am [INFO]: 🔴 Socket disconnected: sqJdLgRYgKAo3DJfAAAl
+9/8/2025, 12:26:20 am [INFO]: 🟢 Socket connected: uH7scX7Fri1OSC5sAAAp
+9/8/2025, 12:26:21 am [INFO]: 🟢 Socket connected: 2oCTPeOZQFhROujlAAAr
+9/8/2025, 1:02:00 am [INFO]: 🔴 Socket disconnected: uH7scX7Fri1OSC5sAAAp
+9/8/2025, 1:02:00 am [INFO]: 🔴 Socket disconnected: 2oCTPeOZQFhROujlAAAr
+9/8/2025, 1:02:00 am [INFO]: 🟢 Socket connected: kCrJB6gwC3IVCdp4AAAt
+9/8/2025, 1:02:01 am [INFO]: 🟢 Socket connected: GxIsiEQ5PV_GbzVCAAAv
+9/8/2025, 11:09:44 am [INFO]: 🔴 Socket disconnected: GxIsiEQ5PV_GbzVCAAAv
+9/8/2025, 11:09:44 am [INFO]: 🔴 Socket disconnected: kCrJB6gwC3IVCdp4AAAt
+9/8/2025, 11:09:46 am [INFO]: 🟢 Socket connected: gwOTN_O3H274TsjSAAAx
+9/8/2025, 11:09:46 am [INFO]: 🟢 Socket connected: l-a6RR6zqMMdtY0rAAAz
+9/8/2025, 3:55:15 pm [INFO]: 🔴 Socket disconnected: l-a6RR6zqMMdtY0rAAAz
+9/8/2025, 3:55:15 pm [INFO]: 🔴 Socket disconnected: gwOTN_O3H274TsjSAAAx
+9/8/2025, 3:55:17 pm [INFO]: 🟢 Socket connected: D6SkH-vOLjznvrU5AAA1
+9/8/2025, 3:55:18 pm [INFO]: 🟢 Socket connected: KrZ4WmDlDXH2bIe1AAA3
+10/8/2025, 3:39:30 pm [INFO]: 🔴 Socket disconnected: D6SkH-vOLjznvrU5AAA1
+10/8/2025, 3:39:30 pm [INFO]: 🔴 Socket disconnected: KrZ4WmDlDXH2bIe1AAA3
+10/8/2025, 3:39:31 pm [INFO]: 🟢 Socket connected: L3hIPwhbG3V7PTosAAA5
+10/8/2025, 3:39:32 pm [INFO]: 🟢 Socket connected: S7VanQTSfmWGbebkAAA7
+10/8/2025, 4:07:40 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+10/8/2025, 4:07:40 pm [INFO]: 🚀 Server running on http://localhost:5001
+10/8/2025, 4:07:42 pm [INFO]: 🟢 Socket connected: RKHvPtQziSf292mFAAAB
+10/8/2025, 4:07:42 pm [INFO]: 🟢 Socket connected: B23gOOHnPR7K220eAAAD
+10/8/2025, 4:07:44 pm [INFO]: 🗄️ Connected to MongoDB
+10/8/2025, 4:07:55 pm [INFO]: 🔴 Socket disconnected: B23gOOHnPR7K220eAAAD
+10/8/2025, 4:07:55 pm [INFO]: 🔴 Socket disconnected: RKHvPtQziSf292mFAAAB
+10/8/2025, 4:07:56 pm [INFO]: 🟢 Socket connected: nGyxQrUfnq2dZd-RAAAG
+10/8/2025, 4:07:56 pm [INFO]: 🟢 Socket connected: 66gwsae-vOFn8b9LAAAH
+10/8/2025, 4:11:17 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+10/8/2025, 4:34:17 pm [INFO]: 🔴 Socket disconnected: 66gwsae-vOFn8b9LAAAH
+10/8/2025, 4:34:17 pm [INFO]: 🔴 Socket disconnected: nGyxQrUfnq2dZd-RAAAG
+10/8/2025, 4:34:20 pm [INFO]: 🟢 Socket connected: VN3ihtqv9PTNS6QPAAAK
+10/8/2025, 4:34:20 pm [INFO]: 🟢 Socket connected: k4OdVh5tXCXPa39qAAAL
+10/8/2025, 4:34:32 pm [INFO]: 🔴 Socket disconnected: VN3ihtqv9PTNS6QPAAAK
+10/8/2025, 4:34:32 pm [INFO]: 🔴 Socket disconnected: k4OdVh5tXCXPa39qAAAL
+10/8/2025, 4:34:34 pm [INFO]: 🟢 Socket connected: HWwsQynF3aZCqDgjAAAO
+10/8/2025, 4:34:34 pm [INFO]: 🟢 Socket connected: -3aCGYPVV9Z6Rca_AAAP
+10/8/2025, 4:45:15 pm [INFO]: 🔴 Socket disconnected: -3aCGYPVV9Z6Rca_AAAP
+10/8/2025, 4:45:15 pm [INFO]: 🔴 Socket disconnected: HWwsQynF3aZCqDgjAAAO
+10/8/2025, 4:45:17 pm [INFO]: 🟢 Socket connected: pK6wBeW9CNfHnprjAAAR
+10/8/2025, 4:45:17 pm [INFO]: 🟢 Socket connected: Nht9Fjowk_GemRDOAAAT
+10/8/2025, 5:07:46 pm [INFO]: 🔴 Socket disconnected: pK6wBeW9CNfHnprjAAAR
+10/8/2025, 5:07:46 pm [INFO]: 🔴 Socket disconnected: Nht9Fjowk_GemRDOAAAT
+10/8/2025, 5:07:48 pm [INFO]: 🟢 Socket connected: pC12p6ktpBk6S5vZAAAV
+10/8/2025, 5:07:48 pm [INFO]: 🟢 Socket connected: cvKNEacnRMaRdE5nAAAX
+10/8/2025, 5:19:26 pm [INFO]: 🔴 Socket disconnected: pC12p6ktpBk6S5vZAAAV
+10/8/2025, 5:19:26 pm [INFO]: 🔴 Socket disconnected: cvKNEacnRMaRdE5nAAAX
+10/8/2025, 5:19:27 pm [INFO]: 🟢 Socket connected: 1kCI75WPaDLYAspaAAAZ
+10/8/2025, 5:19:28 pm [INFO]: 🟢 Socket connected: L5-QSowk5QN7WsZTAAAb
+10/8/2025, 5:43:30 pm [INFO]: 🔴 Socket disconnected: 1kCI75WPaDLYAspaAAAZ
+10/8/2025, 5:43:30 pm [INFO]: 🔴 Socket disconnected: L5-QSowk5QN7WsZTAAAb
+10/8/2025, 5:43:31 pm [INFO]: 🟢 Socket connected: Rp_L_NgZDUPtWX97AAAd
+10/8/2025, 5:43:31 pm [INFO]: 🟢 Socket connected: M_s_pJxYMR3-Tz8KAAAf
+12/8/2025, 12:18:54 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+12/8/2025, 12:18:54 pm [INFO]: 🚀 Server running on http://localhost:5001
+12/8/2025, 12:20:01 pm [ERROR]: ❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/ - Stack: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongoose/lib/connection.js:1096:11)
+12/8/2025, 12:20:07 pm [INFO]: 🟢 Socket connected: 7Q3AuNTsbRPsmvwaAAAC
+12/8/2025, 12:20:07 pm [INFO]: 🟢 Socket connected: CBkJyr4q2zO_Tg0zAAAD
+12/8/2025, 1:24:51 pm [INFO]: 🔴 Socket disconnected: 7Q3AuNTsbRPsmvwaAAAC
+12/8/2025, 1:24:51 pm [INFO]: 🔴 Socket disconnected: CBkJyr4q2zO_Tg0zAAAD
+12/8/2025, 5:14:55 pm [INFO]: Firebase Admin SDK initialized successfully in OTP routes
+12/8/2025, 5:14:55 pm [INFO]: 🚀 Server running on http://localhost:5001
+12/8/2025, 5:15:02 pm [INFO]: 🗄️ Connected to MongoDB
+12/8/2025, 5:15:10 pm [INFO]: 🟢 Socket connected: wDGBEN6hk11IN6HnAAAC
+12/8/2025, 5:15:10 pm [INFO]: 🟢 Socket connected: E8wmAxPRiadvrnfCAAAD
+12/8/2025, 5:16:32 pm [INFO]: 🔴 Socket disconnected: wDGBEN6hk11IN6HnAAAC
+12/8/2025, 5:16:32 pm [INFO]: 🔴 Socket disconnected: E8wmAxPRiadvrnfCAAAD
+12/8/2025, 5:16:32 pm [INFO]: 🟢 Socket connected: PgdqBMXnWIdgHrQoAAAG
+12/8/2025, 5:16:32 pm [INFO]: 🟢 Socket connected: XOwIRzoUXediuYxJAAAH
+12/8/2025, 5:35:45 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+12/8/2025, 5:37:04 pm [INFO]: 📤 OTP sent event received for phone: 7427802072
+12/8/2025, 5:38:05 pm [INFO]: 📤 OTP sent event received for phone: 7427802072

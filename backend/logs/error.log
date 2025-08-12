@@ -1,0 +1,96 @@
+2025-08-03T19:28:55.956Z [ERROR]: ❌ Failed to set role:
+2025-08-03T19:29:21.386Z [ERROR]: ❌ Failed to set role:
+2025-08-03T19:30:42.987Z [ERROR]: ❌ Failed to set role:
+7/8/2025, 5:33:34 pm [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+7/8/2025, 5:34:37 pm [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+7/8/2025, 5:35:34 pm [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+7/8/2025, 5:36:53 pm [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:28:11 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:28:56 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:44:20 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:45:34 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:47:50 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:49:00 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 1:53:28 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 2:01:34 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 2:56:35 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 2:56:35 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+8/8/2025, 2:56:36 am [ERROR]: Failed to save OTP attempt: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" } - Stack: MongoServerError: E11000 duplicate key error collection: test.otpattempts index: phone_1 dup key: { phone: "7427802072" }
+    at InsertOneOperation.execute (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:207:20)
+    at async executeOperation (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/operations/execute_operation.js:75:16)
+    at async Collection.insertOne (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongodb/lib/collection.js:157:16)
+12/8/2025, 12:20:01 pm [ERROR]: ❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/ - Stack: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/atuldhakad/Documents/Projects/New Coaching FInder/Coaching_Finder-main/backend/node_modules/mongoose/lib/connection.js:1096:11)
